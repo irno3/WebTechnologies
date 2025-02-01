@@ -1,0 +1,11 @@
+*.log
+*.pot
+*.pyc
+__pycache__
+*.bak
+.env
+.venv
+venv/
+.mypy_cache/
+**/migrations
+*.DS_Store
